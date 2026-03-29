@@ -1,21 +1,21 @@
 const CACHE_NAME = "lager-v2.1";
 
 const PRECACHE_ASSETS = [
-  "/",
-  "/index.html",
-  "/style.css",
-  "/actions.js",
-  "/counter.js",
-  "/db.js",
-  "/events.js",
-  "/gestures.js",
-  "/locations.js",
-  "/main.js",
-  "/p2p.js",
-  "/renderer.js",
-  "/search.js",
-  "/templates.js",
-  "/utils.js",
+  "./",
+  "./index.html",
+  "./style.css",
+  "./actions.js",
+  "./counter.js",
+  "./db.js",
+  "./events.js",
+  "./gestures.js",
+  "./locations.js",
+  "./main.js",
+  "./p2p.js",
+  "./renderer.js",
+  "./search.js",
+  "./templates.js",
+  "./utils.js",
 ];
 
 // 1. Installation: Basis-Assets cachen
