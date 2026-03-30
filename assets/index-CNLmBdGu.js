@@ -187,7 +187,7 @@ var e=Object.create,t=Object.defineProperty,n=Object.getOwnPropertyDescriptor,r=
         </div>
       </div>
       <div style="border-top: 1px solid #eee; padding-top: 20px;">
-         <p style="font-size: 0.8rem; color: #64748b; text-align: center;">Version 1.3.0 - Ergonomic Location UI</p>
+         <p style="font-size: 0.8rem; color: #64748b; text-align: center;">Version 1.3.1 - Ergonomic Location UI</p>
       </div>
     </div>
   </div>
