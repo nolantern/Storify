@@ -1,56 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   version="1.1"
-   id="svg1"
-   width="1024"
-   height="1024"
-   viewBox="0 0 1024 1024"
-   sodipodi:docname="icon.svg"
-   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1" />
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     inkscape:zoom="0.78027344"
-     inkscape:cx="511.3592"
-     inkscape:cy="422.28786"
-     inkscape:window-width="1664"
-     inkscape:window-height="1011"
-     inkscape:window-x="1680"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g1"
-     showgrid="false" />
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
-     id="g1">
-    <circle
-       style="fill:#2563eb;stroke:none;stroke-width:1.25184;stroke-linecap:square;stroke-dasharray:1.25184, 1.25184;paint-order:markers fill stroke;fill-opacity:1"
-       id="path2"
-       cx="569.03125"
-       cy="475.47433"
-       r="454.9097"
-       inkscape:export-filename="path2.png"
-       inkscape:export-xdpi="54.023911"
-       inkscape:export-ydpi="54.023911" />
-    <path
-       style="fill:#f9f9f9"
-       d="m 319.93483,686.84874 c -1.86883,-1.24847 -4.18468,-3.83597 -5.14633,-5.75 -1.64142,-3.26705 -1.74854,-12.69566 -1.75,-154.03373 l -0.002,-150.55365 2.48293,-4.94635 c 3.7868,-7.54382 2.01214,-6.63638 64.01707,-32.73387 13.75,-5.78729 48.625,-20.52961 77.5,-32.76071 28.875,-12.23111 61.05,-25.82569 71.5,-30.21019 10.45,-4.3845 22.15,-9.34986 26,-11.03414 5.73832,-2.51037 8.3518,-3.06602 14.5,-3.0828 7.21607,-0.0197 8.27609,0.31026 28,8.71588 11.275,4.805 22.075,9.45001 24,10.32225 1.925,0.87224 13.4,5.74068 25.5,10.81876 29.16624,12.24038 112.29247,47.28613 140.4173,59.19949 12.32951,5.22264 23.41702,9.8758 24.63891,10.34036 3.78493,1.43903 9.67042,7.26923 11.57881,11.47005 1.73532,3.81985 1.82209,11.1085 1.84302,154.80824 0.0239,163.81334 0.38807,153.23089 -5.46198,158.70034 l -2.67396,2.5 -28.42105,0.29391 -28.42105,0.29391 V 559.72768 c 0,-81.69251 -0.35987,-130.42533 -0.97507,-132.04345 -0.5363,-1.41055 -2.4488,-3.46317 -4.25,-4.56136 -3.24146,-1.97632 -5.13815,-1.99676 -185.57459,-2.00046 -160.99728,-0.003 -182.64244,0.17352 -185.23307,1.51319 -6.34401,3.28061 -5.96727,-5.3647 -5.96727,136.93341 v 129.54966 h -27.35212 c -26.77172,0 -27.42421,-0.0482 -30.75,-2.26993 z m 97.10212,0.51838 c -7.09749,-3.5456 -6.89848,-1.53426 -6.95041,-70.24845 -0.0528,-69.87744 -0.42544,-66.54552 7.9123,-70.75 4.23743,-2.13681 5.6073,-2.25 27.23095,-2.25 h 22.76906 l 0.60995,2.43024 c 0.33547,1.33662 0.35641,10.96237 0.0465,21.39055 -0.66674,22.43726 -2.32865,20.42704 16.11491,19.49227 l 12.26674,-0.6217 v -21.34568 -21.34568 h 23.03212 c 24.93715,0 27.31071,0.40474 31.96788,5.45123 l 2.5,2.70898 0.27172,63.42755 c 0.30047,70.13709 0.53063,67.42792 -6.07027,71.45272 -3.08497,1.88102 -5.47542,1.95212 -65.70145,1.95423 -57.5041,0.002 -62.77977,-0.13758 -66,-1.74626 z m 172.18982,-0.27408 c -6.30234,-3.84244 -6.1902,-2.56102 -6.18608,-70.69225 0.004,-59.47445 0.0765,-61.90148 1.95226,-64.97779 4.00866,-6.5744 4.87745,-6.76958 31.7473,-7.13244 l 24.2967,-0.32811 v 21.51909 c 0,14.13868 0.36515,21.74477 1.06466,22.17709 0.58557,0.3619 7.01843,0.33912 14.29525,-0.0506 l 13.23058,-0.70862 0.14974,-21.14036 0.14973,-21.14036 23.30502,-0.26351 c 26.07531,-0.29484 28.01204,0.1075 32.55502,6.763 l 2.25,3.29628 -0.002,62.10211 c -0.002,69.45576 0.2165,67.24629 -6.99845,70.85057 -3.22023,1.60868 -8.4959,1.74827 -66,1.74626 -60.92531,-0.002 -62.5834,-0.053 -65.81018,-2.02034 z"
-       id="path1"
-       sodipodi:nodetypes="ssscsssssssssssssscccssscsscsssssscssscccsscssssccsscssscccssccsscc" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="512" cy="512" r="454.91" fill="#2563eb" style="paint-order:markers fill stroke"/>
+ <g transform="translate(1.4612 -4.5)">
+  <g fill="#fff" stroke-dasharray="1.13386, 1.13386" stroke-linecap="square" stroke-width="1.1339">
+   <rect x="255.04" y="303.75" width="62.798" height="425.49" ry="10" style="paint-order:markers fill stroke"/>
+   <rect x="703.24" y="303.75" width="62.798" height="425.49" ry="10" style="paint-order:markers fill stroke"/>
+   <rect x="258.4" y="477.41" width="499.82" height="78.178" ry="10" style="paint-order:markers fill stroke"/>
+   <path d="m354.06 314.15c-5.54 0-10 4.46-10 10v129.95c0 5.54 4.46 10 10 10h129.95c5.54 0 10-4.46 10-10v-129.95c0-5.54-4.46-10-10-10h-48.312v43.574h-33.322v-43.574z" style="paint-order:markers fill stroke"/>
   </g>
+  <g transform="translate(2.8455)">
+   <path d="m535.47 568.9c-5.54 0-10 4.46-10 10v129.95c0 5.54 4.46 10 10 10h129.95c5.54 0 10-4.46 10-10v-129.95c0-5.54-4.46-10-10-10h-48.312v43.574h-33.322v-43.574z" fill="#fff" stroke-dasharray="1.13386, 1.13386" stroke-linecap="square" stroke-width="1.1339" style="paint-order:markers fill stroke"/>
+  </g>
+ </g>
 </svg>
