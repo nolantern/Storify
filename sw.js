@@ -1,21 +1,14 @@
-const CACHE_NAME = "lager-v2.1";
+const CACHE_NAME = "lager-v2.2"; // Versionsnummer erhöht, um Update zu erzwingen
 
+// Cacht nur die statischen Einstiegspunkte.
+// Die von Vite gebauten JS/CSS Dateien (mit Hash im Namen)
+// werden vom fetch-Event unten dynamisch gecacht!
 const PRECACHE_ASSETS = [
   "./",
   "./index.html",
-  "./style.css",
-  "./actions.js",
-  "./counter.js",
-  "./db.js",
-  "./events.js",
-  "./gestures.js",
-  "./locations.js",
-  "./main.js",
-  "./p2p.js",
-  "./renderer.js",
-  "./search.js",
-  "./templates.js",
-  "./utils.js",
+  "./manifest.json",
+  "./icon-512.png",
+  "./icon.svg",
 ];
 
 // 1. Installation: Basis-Assets cachen
@@ -47,6 +40,7 @@ self.addEventListener("activate", (event) => {
 
 // 3. Fetch-Strategie: Stale-While-Revalidate
 self.addEventListener("fetch", (event) => {
+  // Ignoriere P2P Verbindungen
   if (
     event.request.url.includes("peerjs") ||
     event.request.url.includes("stun")
