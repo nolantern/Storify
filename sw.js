@@ -21,15 +21,7 @@ const PRECACHE_ASSETS = [
 // 1. Installation: Basis-Assets cachen
 self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return Promise.all(
-        PRECACHE_ASSETS.map((url) => {
-          return cache
-            .add(url)
-            .catch((err) => console.error("Cache-Fehler bei:", url, err));
-        })
-      );
-    })
+    caches.open(CACHE_NAME).then((cache) => cache.addAll(PRECACHE_ASSETS))
   );
   self.skipWaiting();
 });
