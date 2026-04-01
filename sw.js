@@ -1,4 +1,4 @@
-const CACHE_NAME = "lager-v2.3.11";
+const CACHE_NAME = "lager-v2.4.0";
 
 // Cacht nur die statischen Einstiegspunkte.
 // Die von Vite gebauten JS/CSS Dateien (mit Hash im Namen)
