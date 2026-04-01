@@ -182,7 +182,7 @@ var e=Object.create,t=Object.defineProperty,n=Object.getOwnPropertyDescriptor,r=
         </div>
       </div>
       <div style="border-top: 1px solid var(--border-color); padding-top: 20px;">
-         <p style="font-size: 0.8rem; color: var(--text-muted); text-align: center;">Version 1.4.0 - Design System</p>
+         <p style="font-size: 0.8rem; color: var(--text-muted); text-align: center;">Version 1.4.1 - Design System</p>
       </div>
     </div>
   </div>
